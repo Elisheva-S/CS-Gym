@@ -10,8 +10,6 @@ namespace CS_Concepts
     {
         public void Run()
         {
-            int i;
-            string name;
             (int id, string fName, string lName) person;
             person = (123, "Elisheva", "Shzigel");
             person.id = 456;
